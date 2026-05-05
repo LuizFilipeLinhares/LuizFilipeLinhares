@@ -10,6 +10,6 @@ Sinta-se à vontade para explorar o que estou criando, estudando e testando!
 
 ##  Contato
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/luiz-filipe-linhares)
-- 📧 Email: linharesluizfilipe@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-filipe-linhares)
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linharesluizfilipe@gmail.com)
